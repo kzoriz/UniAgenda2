@@ -29,3 +29,14 @@ Sistema web simples para gerenciamento de atividades pessoais, desenvolvido como
 ├── data/
 │ └── atividades.json
 ```
+
+## Como Executar
+
+1. Clone o repositório
+2. Instale os pacotes com `pip install -r requirements.txt` (se aplicável)
+3. Inicie o servidor: `python manage.py runserver`
+4. Acesse no navegador: `http://localhost:8000/`
+
+## Vídeo Explicativo
+
+[Insira aqui o link do vídeo no YouTube]
