@@ -39,4 +39,4 @@ Sistema web simples para gerenciamento de atividades pessoais, desenvolvido como
 
 ## Vídeo Explicativo
 
-[Insira aqui o link do vídeo no YouTube]
+https://youtu.be/MIJlzFcuiN8
